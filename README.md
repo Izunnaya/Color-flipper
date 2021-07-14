@@ -2,4 +2,4 @@
 
 ## Hosted link
 
-[live preview]()
+[live preview](https://izunnaya.github.io/Color-flipper/)
